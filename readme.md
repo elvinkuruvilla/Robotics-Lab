@@ -96,7 +96,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 <div align="center">
   <p>
-    <i>Made with ❤️ for Robotics Students</i>
+    <i>Made for Robotics Students</i>
   </p>
   <p>
     <a href="https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332/issues">Report Bug</a>
