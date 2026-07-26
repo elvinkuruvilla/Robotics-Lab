@@ -77,23 +77,6 @@ Welcome to the Robotics Laboratory repository! This comprehensive collection con
 
 4. **Follow instructions in individual experiment READMEs**
 
-## 🛠️ Tools and Technologies
-
-<table>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="40px" height="40px"><br>Arduino</td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="40px" height="40px"><br>ROS</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" width="40px" height="40px"><br>Python</td>
-    <td align="center"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png" width="40px" height="40px"><br>C++</td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" width="40px" height="40px"><br>Gazebo</td>
-    <td align="center">🤖<br>Moveit</td>
-    <td align="center">🔍<br>Rviz</td>
-    <td align="center">🔌<br>Sensors & Motors</td>
-  </tr>
-</table>
-
 
 ## 🔄 Contributing
 
