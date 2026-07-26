@@ -8,10 +8,7 @@
 
 Welcome to the Robotics Laboratory repository! This comprehensive collection contains implementations and documentation for experiments conducted as part of the BTech Robotics Laboratory course. Designed to provide a hands-on experience with robotics systems, this lab covers basic Arduino interfacing.
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="60px">
 
-</div>
 
 
 
