@@ -11,8 +11,7 @@ Welcome to the Robotics Laboratory (AIL332) repository! This comprehensive colle
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="60px">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" width="60px">
-  <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" width="60px">
+
 </div>
 
 
