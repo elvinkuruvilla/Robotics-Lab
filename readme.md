@@ -4,10 +4,9 @@
 [![Academic](https://img.shields.io/badge/Academic-BTech-green)](https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332)
 [![Credits](https://img.shields.io/badge/Credits-2-yellow)](https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332)
 [![Arduino](https://img.shields.io/badge/Arduino-Used-teal)](https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332)
-[![ROS](https://img.shields.io/badge/ROS-Implemented-orange)](https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332)
 [![MIT License](https://img.shields.io/badge/License-MIT-purple)](https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332)
 
-Welcome to the Robotics Laboratory (AIL332) repository! This comprehensive collection contains implementations and documentation for experiments conducted as part of the BTech Robotics Laboratory course. Designed to provide a hands-on experience with robotics systems, this lab covers everything from basic Arduino interfacing to advanced ROS-based navigation.
+Welcome to the Robotics Laboratory repository! This comprehensive collection contains implementations and documentation for experiments conducted as part of the BTech Robotics Laboratory course. Designed to provide a hands-on experience with robotics systems, this lab covers basic Arduino interfacing.
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/arduino/arduino.png" width="60px">
