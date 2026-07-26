@@ -1,4 +1,4 @@
-# 🤖 Robotics Laboratory (AIL332)
+# 🤖 Robotics Laboratory
 
 [![Robotics Lab](https://img.shields.io/badge/Lab-Robotics-blue)](https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332)
 [![Academic](https://img.shields.io/badge/Academic-BTech-green)](https://github.com/venkideshVenu/KTU-S6-Robotics-Lab-AIL332)
@@ -15,45 +15,7 @@ Welcome to the Robotics Laboratory (AIL332) repository! This comprehensive colle
   <img src="https://upload.wikimedia.org/wikipedia/en/5/5e/Gazebo_logo_without_text.svg" width="60px">
 </div>
 
-## 📚 Course Information
 
-| Detail | Description |
-|--------|-------------|
-| **Course Code** | AIL332 |
-| **Department** | Computer Science and Engineering (Artificial Intelligence) |
-| **Category** | PCC (Professional Core Course) |
-| **Credits** | 2 (0-0-3) |
-| **Year of Introduction** | 2022 |
-| **Syllabus** | [Click Here](./Robotics%20Lab%20Syllabus.pdf) |
-| **Semester** | S6 (Sixth Semester) |
-
-## 🎯 Course Outcomes
-
-After completing this course, students will be able to:
-
-1. **CO1:** Interface various peripherals to Arduino boards for robotics applications
-2. **CO2:** Assemble mobile robots with different sensors and actuators
-3. **CO3:** Understand and implement mobile robot localization techniques
-4. **CO4:** Apply standard algorithms to enhance robot intelligence and functionality
-5. **CO5:** Master robot navigation principles and implement autonomous navigation systems
-
-## 🔧 Prerequisites
-
-- ✅ Basic knowledge of robotics principles and autonomous systems
-- ✅ Programming experience in Python and C++
-- ✅ Understanding of Arduino programming and microcontroller basics
-- ✅ Familiarity with ROS (Robot Operating System) concepts
-- ✅ Basic electronics knowledge for sensor and actuator interfacing
-
-## 🌐 ROS Essentials
-
-This laboratory introduces the Robot Operating System (ROS) as a framework for robot software development:
-
-- 🔹 Installing and configuring ROS environment (Kinetic/Melodic/Noetic or compatible versions)
-- 🔹 ROS fundamentals: Master, nodes, topics, messages, services, parameters, and actions
-- 🔹 ROS Tools: Gazebo (simulation), Moveit (motion planning), Rviz (visualization)
-- 🔹 Creating Workspaces and Packages in ROS for modular development
-- 🔹 Implementing Publisher-Subscriber and Service-Client communication patterns
 
 ## 🧪 Laboratory Experiments
 
@@ -108,28 +70,7 @@ This laboratory introduces the Robot Operating System (ROS) as a framework for r
 #### 12. Obstacle Avoidance
 - [Obstacle Avoidance Robot](./12%20Obstacle%20Avoidance%20Robot/01%20ObstacleAvoidanceRobot.md) - Create a robot that detects and avoids obstacles
 
-#### 13. Object Detection
-- [Object Detection using a Standard Algorithm](./13%20ObjectDetection/01%20ObjectDetection.md) - Implement computer vision for object recognition
 
-#### 14. ROS Navigation
-- [Turtlebot Simulation](./14%20ROS%20Navigation/01%20TurtleBot%20Simulation.md) - Simulate autonomous navigation using Turtlebot platform
-
-### Additional Programs and Resources
-
-- [Push Button Interfacing](./00%20Additional%20Programs/01%20Interfacing%20Push%20Button.md) - Learn how to use push buttons for robot interaction
-- More examples and utilities will be added throughout the course
-
-## Extra Materials for Exam
-
-### Study Materials
-- [Viva Questions (Electronic Components based)](./99%20Exam%20Preparation%20Materials/00%20Viva%20Questions%20and%20Answers.md)
-
-### Experiment Questions
-- [Smart Bin](./99%20Exam%20Preparation%20Materials/01%20Smart%20Bin.md)
-
-- [Auto Window Opener](./99%20Exam%20Preparation%20Materials/02%20Auto%20Window.md)
-
-- [Ultrasonic LED Proximity Display](./99%20Exam%20Preparation%20Materials/03%20Ultrasonic_LED_Proximity_Display.md)
 ## 🚀 How to Use This Repository
 
 1. **Clone the repository:**
@@ -177,30 +118,6 @@ This laboratory introduces the Robot Operating System (ROS) as a framework for r
   </tr>
 </table>
 
-## 📊 Assessment Pattern
-
-| Component | Marks | Details |
-|-----------|-------|---------|
-| Continuous Internal Evaluation (CIE) | 75 | Lab performance, records & viva voce |
-| End Semester Examination (ESE) | 75 | Practical exam (2.5 hours) |
-| **Total** | **150** | |
-
-### Grading Criteria
-- **Lab Performance:** 40% - Quality of implementation and demonstration
-- **Lab Records:** 30% - Documentation and analysis of experiments
-- **Viva Voce:** 30% - Understanding of concepts and applications
-
-## 📚 References
-
-1. Siegwart, Roland, "Introduction to Autonomous Mobile Robots", MIT Press
-2. Peter Corke, "Robotics, Vision and Control: Fundamental Algorithms in MATLAB", Springer
-3. John. J. Craig, "Introduction to Robotics (Mechanics and control)", Pearson
-4. S K Saha, "Introduction to Robotics", McGraw Hill
-5. R K Mittal and I J Nagrath, "Robotics and Control", Tata McGraw Hill
-6. Dahiya, Ravinder S., Valle, Maurizio, "Robotic Tactile Sensing", Springer
-7. [TurtleBot3 e-Manual](https://emanual.robotis.com/docs/en/platform/turtlebot3/simulation)
-8. [ROS Wiki](http://wiki.ros.org/)
-9. [Arduino Documentation](https://www.arduino.cc/reference/en/)
 
 ## 🔄 Contributing
 
