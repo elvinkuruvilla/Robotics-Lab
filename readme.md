@@ -42,30 +42,11 @@ Welcome to the Robotics Laboratory repository! This comprehensive collection con
 #### 6. Mobile Robot Assembly
 - [Mobile Robot Assembly](./06%20Mobile%20Robot%20Assembly/06%20mobileRobotAssembly.md) - Build a complete mobile robot with various components
 
-#### 7. Arduino Networking (Coming Soon)
-- GSM Integration - Connect robots to cellular networks
-- Bluetooth Communication - Implement wireless robot control
 
-### Part B: Intelligent Systems
-
-#### 8. ROS Programming Basics
-- [Publisher-Subscriber Implementation](./08%20ROS%20Programming%20Basics/01%20Publisher-Subscriber.md) - Implement basic ROS communication patterns
-- [Service-Client Programming](./08%20ROS%20Programming%20Basics/02%20Service%20Client%20Programming.md) - Create request-response based interactions
-- [Recording and Playing Back Data](./08%20ROS%20Programming%20Basics/03%20recordAndPlaybackData.md) - Use rosbag for data recording and playback
-- [Reading Messages from Bag File](./08%20ROS%20Programming%20Basics/04%20ReadFromBagFile.md) - Extract and process recorded sensor data
-
-#### 9. Mobile Robot Localization (Coming Soon)
-- LIDAR-based Localization - Implement laser-based robot positioning
-- ROS Implementation - Integrate localization algorithms in ROS
-
-#### 10. Touch Sensing (Coming Soon)
-- Sensor Interfacing - Connect touch sensors to robots
-- Feedback System Implementation - Create responsive touch-based feedback systems
-
-#### 11. Line Following Robot
+#### 7. Line Following Robot
 - [Line Following Robot](./11%20Line%20Following%20Robot/01%20Line%20Following%20Robot.md) - Build and program a robot that follows a line path
 
-#### 12. Obstacle Avoidance
+#### 8. Obstacle Avoidance
 - [Obstacle Avoidance Robot](./12%20Obstacle%20Avoidance%20Robot/01%20ObstacleAvoidanceRobot.md) - Create a robot that detects and avoids obstacles
 
 
